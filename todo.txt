@@ -1,0 +1,10 @@
+To complete this project I need:
+
+A function called getContentType, which will take a string representing a filename and return the proper content-type extension. I will need to implement the functionality for determining content types for 'text/html', 'text/css', 'image/jpeg', and 'text/plain'.
+
+All code should be written in js/request-logic.js
+
+To demo the site, open index.html in your browser 
+
+TESTING
+To run these tests, first open the root project directory in your terminal. Then run npm install to install all necessary testing dependencies (you will only need to do this step once). Finally, run npm run test. You will see a list of tests that ran with information about whether or not each test passed. After this list, you will see more specific output about why each failing test failed.
